@@ -10,7 +10,5 @@ function myfunc1() {
 
 function myfunc2() {
 	console.log('hey 4');
-	console.log('hey 5');
-	console.log('hey 6');
 	console.log('hey 7');
 }
