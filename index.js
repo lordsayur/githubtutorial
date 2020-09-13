@@ -35,4 +35,7 @@ function featureA() {
 	console.log('hey 6');
 	console.log('hey 8');
 	console.log('hey 7');
+	console.log('hey 6');
+	console.log('hey 8');
+	console.log('hey 7');
 }
