@@ -27,7 +27,7 @@ function myfunc5() {
 
 function myfunc7() {
 	console.log('hey 6');
-	console.log('hey 8');
+	console.log('hey 8123');
 	console.log('hey 7');
 }
 
