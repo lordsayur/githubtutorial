@@ -18,3 +18,9 @@ function myfunc3() {
 	console.log('hey 8');
 	console.log('hey 7');
 }
+
+function myfunc5() {
+	console.log('hey 6');
+	console.log('hey 8');
+	console.log('hey 7');
+}
