@@ -32,7 +32,7 @@ function myfunc7() {
 }
 
 function featureA() {
-	console.log('hey 6');
+	console.log('hey 3');
 	console.log('hey 8');
 	console.log('hey 7');
 	console.log('hey 6');
